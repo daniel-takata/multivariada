@@ -1,0 +1,39 @@
+Gosto_de_eventos — Gosto de participar de encontros sociais e festas.
+
+Energia_com_pessoas — Sinto-me energizado quando estou com outras pessoas.
+
+Inicia_conversas — Costumo iniciar conversas com pessoas que não conheço.
+
+Centro_atencao — Gosto de ser o centro das atenções em eventos sociais.
+
+Faz_amigos_facil — Tenho facilidade para fazer novos amigos.
+
+Organizacao_planejamento — Organizo minhas tarefas e planejo com antecedência.
+
+Cumpre_prazos — Costumo cumprir prazos e compromissos.
+
+Atencao_detalhe — Presto atenção aos detalhes no meu trabalho/rotina.
+
+Ambiente_organizado — Prefiro manter minhas coisas e meu ambiente organizados.
+
+Conclui_projetos — Quando começo um projeto, eu o levo até o fim.
+
+Nervoso_facil — Fico nervoso(a) com facilidade.
+
+Preocupa_frequente — Preocupo-me frequentemente com coisas que poderiam dar errado.
+
+Tristezas_eventuais — Tenho dias em que me sinto triste sem motivo aparente.
+
+Irritavel — Fico irritado(a) ou frustrado(a) com facilidade.
+
+Tenso_em_pressao — Sinto-me tenso(a) em situações de pressão.
+
+Experimentar_novo — Gosto de experimentar novas atividades e ideias.
+
+Interesse_arte — Tenho interesse por arte, música ou literatura criativa.
+
+Abstrato — Gosto de pensar em ideias abstratas e conceitos.
+
+Aprender_novo — Procuro aprender coisas novas sempre que posso.
+
+Aprecia_mudancas — Aprecio mudanças e experiências diferentes.
